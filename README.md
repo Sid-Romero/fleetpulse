@@ -23,7 +23,7 @@ FleetPulse is a B2B platform for logistics companies to monitor their vehicle fl
 <br>
 
 > Dashboard, Fleet view, Vehicle details, Analytics...
-> *(Add your screenshots here)*
+> *Nothing here yet*
 
 </details>
 
